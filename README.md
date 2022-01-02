@@ -13,7 +13,7 @@ pip install -r requiremets.txt
 
 ## Prediction Results 
 <p align="center">
-  <img src="https://github.com/SahaAbhisek/Binary-Image-Classification_using-InceptionV3/blob/main/images/cm.png" width="650" hight="650" title="Prediction Results">
+  <img src="https://github.com/SahaAbhisek/Maleria-Cell_Classification-using-MobilenetV2/blob/main/images/cm.png" width="650" hight="650" title="Prediction Results">
 </p>
 
 Conclusion: 
