@@ -1,4 +1,4 @@
-# Image Classification
+# Maleria cell Classification
 
 In this Notebook we will classify the Maleria cells unsing a transfer learning model.
 The dataset has two catagories, Infected and Uninfected. Both of them have equal number of image files. We will split them to train and test dataset and use them for training and testing.
